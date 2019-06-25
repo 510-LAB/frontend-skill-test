@@ -1,7 +1,7 @@
 # Front-End Skill Test
 What we expect from this test:
 
-- The complete flow from the loading screen to the invoice listing (cards) until be able to open one single invoice;
+- The complete flow from the loading screen to the invoice listing (cards) until able to open one single invoice;
 - Navigation between invoices (up and down);
 - Details of a single, opened invoice (hide three invoices behind the opened one);
 - Be able to navigate (horizontally) through the opened invoice;
