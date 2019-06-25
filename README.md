@@ -9,7 +9,7 @@ What we expect from this test:
 - Transitions and animations through the navigation based on the actions you take;
 - Preferable built with Vue.js;
 
-![](el-invoices-test.gif)
+![](el-invoces-test.gif)
 
 Assets: Can be found in the assets folder
 Video: [link_for_the_video]
