@@ -7,12 +7,18 @@ What we expect from this test:
 - Be able to navigate (horizontally) through the opened invoice;
 - Be able to go back to the invoice listing;
 - Transitions and animations through the navigation based on the actions you take;
-- Preferable built with Vue.js;
+- Preferable built with [Vue.js](https://cli.vuejs.org/ "Vue CLI");
 
-![](el-invoces-test.gif)
+This is what your deliverable should look like:
+![](el-invoices-test.gif)
 
-Assets: Can be found in the assets folder
-Video: [link_for_the_video]
-Font used: Work Sans - https://fonts.google.com/specimen/Work+Sans
+Some considerations
+- You can fork this repository and publish your solution there, just make sure you make it private to prevent other candidates from peeking on your work;
+- We will only accept a hosted solution accessible via a publicly available url. You should be able to host your solution on GitHub Pages. If you choose to build it with Vue you have a step by step guide on how to host on GitHub pages [here](https://medium.com/@Roli_Dori/deploy-vue-cli-3-project-to-github-pages-ebeda0705fbd "Host Vue app on GitHub pages");
 
-![Screenshot](assets/screen-guidelines.png)
+
+
+- Assets for the test can be found in the assets folder; 
+- The font family used in the design is **Work Sans**(https://fonts.google.com/specimen/Work+Sans);
+- Below is the specification for some of the design elements:
+![Screenshot](screen-guidelines.png)
