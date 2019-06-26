@@ -15,7 +15,7 @@ This is what your deliverable should look like:
 Some considerations
 - Job description can be found in **frontend-profile.pdf**;
 - You can fork this repository and publish your solution there, just make sure you make it private to prevent other candidates from peeking on your work;
-- We will only accept a hosted solution accessible via a publicly available url. The easiest way to host your solution would be on GitHub Pages and if you choose to build it with Vue you have a step by step guide on how to do it [here](https://medium.com/@Roli_Dori/deploy-vue-cli-3-project-to-github-pages-ebeda0705fbd "Host Vue app on GitHub pages");
+- We will only accept a hosted solution accessible via a publicly available url. The easiest way to host your solution would be on GitHub Pages; If you choose to build it with Vue you have a step by step guide on how to do it [here](https://medium.com/@Roli_Dori/deploy-vue-cli-3-project-to-github-pages-ebeda0705fbd "Host Vue app on GitHub pages");
 - Assets for the test can be found in the assets folder; 
 - The font family used in the design is **Work Sans** (https://fonts.google.com/specimen/Work+Sans);
 - Below is the specification for some of the design elements:
