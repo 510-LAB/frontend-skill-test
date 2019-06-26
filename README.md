@@ -1,4 +1,4 @@
-# Front-End Position Assessment
+# Frontend skill test
 
 The job description can be found [here](https://github.com/LAB15-Dev/FrontEndTest/blob/master/frontend-profile.pdf).
 
