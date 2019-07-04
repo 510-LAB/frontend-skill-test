@@ -11,10 +11,13 @@ The job description can be found [here](https://github.com/LAB15-Dev/FrontEndTes
 - Be able to navigate (horizontally) through the open invoice;
 - Be able to go back to the invoice listing;
 - Transitions and animations through the navigation based on the actions you take;
-- Preferable built with [Vue.js](https://cli.vuejs.org/ "Vue CLI");
+- Preferably built with [Vue.js](https://cli.vuejs.org/ "Vue CLI");
 
 This is what your deliverable should look like:
+
 ![](el-invoices-test.gif)
+
+There is also a full resolution video on the repository for a more detailed and fluid view.
 
 ### Instructions
 - You can fork this repository and publish your solution there, just make sure you make it private to prevent other candidates from peeking on your work;
